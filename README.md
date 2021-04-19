@@ -44,7 +44,7 @@
 
 Login Page             |  Home Page (Videos)
 :-------------------------:|:-------------------------:
-[![onemob Screen Shot 1][onemob-screenshot1]](https://example.com)  |  [![onemob Screen Shot 2][onemob-screenshot2]](https://example.com)
+[![onemob Screen Shot 1][onemob-screenshot1]](images/screenshot1.jpg)  |  [![onemob Screen Shot 2][onemob-screenshot2]](images/screenshot2.jpg)
 
 
 
