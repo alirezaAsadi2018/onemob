@@ -15,7 +15,7 @@ installation
 
 > **Note:**
 
-> - You need to create an admin user to manage your blog site by this command: `python manage.py createsuperuser`
+> - You need to create an admin user to manage your admin site by this command: `python manage.py createsuperuser`
 
 api urls:
 - http://localhost:8000/api/
